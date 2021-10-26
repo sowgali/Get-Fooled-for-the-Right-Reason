@@ -1,4 +1,4 @@
-# Get Fooled for the Right Reaso
+# Get Fooled for the Right Reason
 Official repository for the NeurIPS 2021 paper Get Fooled for the Right Reason: ImprovingAdversarial Robustness through a Teacher-guidedCurriculum Learning Approach
 
 ## Dependencies
