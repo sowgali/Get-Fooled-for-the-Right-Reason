@@ -1,5 +1,5 @@
-# Adversarial-Robustness-Without-Adversarial-Training
-Official repository for the NeurIPS 2021 paper Adversarial Robustness Without Adversarial Training: A Teacher-Guided Curriculum Learning Approach
+# Get Fooled for the Right Reaso
+Official repository for the NeurIPS 2021 paper Get Fooled for the Right Reason: ImprovingAdversarial Robustness through a Teacher-guidedCurriculum Learning Approach
 
 ## Dependencies
 1. Tensorflow 1.14.0
