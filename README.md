@@ -1,5 +1,5 @@
 # Get Fooled for the Right Reason
-Official repository for the NeurIPS 2021 paper Get Fooled for the Right Reason: ImprovingAdversarial Robustness through a Teacher-guidedCurriculum Learning Approach
+Official repository for the NeurIPS 2021 paper Get Fooled for the Right Reason: Improving Adversarial Robustness through a Teacher-guided Curriculum Learning Approach
 
 ## Dependencies
 1. Tensorflow 1.14.0
